@@ -61,7 +61,7 @@ public class Tests {
 
 	}
 
-	//http://yhscs.us/advanced/projects/classicalEncryption.php
+	//Source: http://yhscs.us/advanced/projects/classicalEncryption.php
 	private static void TestD() {
 		String message = "Your task is to implement a classical encryption technique in the programming language of your choice.";
 		String ciphertext;
